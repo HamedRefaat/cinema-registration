@@ -1,0 +1,4 @@
+C:\Users\hamed Refaat\documents\visual studio 2013\Projects\Cinema_Seates_REG\RemotSeates\bin\Debug\RemotSeates.dll
+C:\Users\hamed Refaat\documents\visual studio 2013\Projects\Cinema_Seates_REG\RemotSeates\bin\Debug\RemotSeates.pdb
+C:\Users\hamed Refaat\documents\visual studio 2013\Projects\Cinema_Seates_REG\RemotSeates\obj\Debug\RemotSeates.dll
+C:\Users\hamed Refaat\documents\visual studio 2013\Projects\Cinema_Seates_REG\RemotSeates\obj\Debug\RemotSeates.pdb
